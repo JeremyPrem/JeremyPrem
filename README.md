@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JeremyPrem
-- 👀 I’m interested in aoftware and app development, web design, and AI/machine learning.
+- 👀 I’m interested in software and app development, web design, and AI/machine learning.
 - 🌱 I’m a Computer Science gradute from UMD College Park 2024
 - 📫 How to reach me, send me an email @ jeremyprem@gmail.com
 
